@@ -68,4 +68,4 @@ theme: landscape
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: github
-  repo: git@github.com:zqcloveping/alpaca.github.io.git
+  repo: https://github.com/zqcloveping/myblog.git
